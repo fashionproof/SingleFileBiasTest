@@ -1,0 +1,6 @@
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+            <Target Name="MyTarget">
+                <SimpleTask MyProperty="ReplaceMe"/>
+            </Target>
+        <UsingTask TaskName="SimpleTask" AssemblyFile="Loader.dll" />
+</Project>
