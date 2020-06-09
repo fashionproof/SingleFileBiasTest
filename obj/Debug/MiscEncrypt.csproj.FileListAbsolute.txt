@@ -1,0 +1,11 @@
+C:\Tools\MiscEncrypt\MiscEncrypt\bin\Debug\MiscEncrypt.exe.config
+C:\Tools\MiscEncrypt\MiscEncrypt\bin\Debug\MiscEncrypt.exe
+C:\Tools\MiscEncrypt\MiscEncrypt\bin\Debug\MiscEncrypt.pdb
+C:\Tools\MiscEncrypt\MiscEncrypt\obj\Debug\MiscEncrypt.Form1.resources
+C:\Tools\MiscEncrypt\MiscEncrypt\obj\Debug\MiscEncrypt.Properties.Resources.resources
+C:\Tools\MiscEncrypt\MiscEncrypt\obj\Debug\MiscEncrypt.csproj.GenerateResource.cache
+C:\Tools\MiscEncrypt\MiscEncrypt\obj\Debug\MiscEncrypt.exe
+C:\Tools\MiscEncrypt\MiscEncrypt\obj\Debug\MiscEncrypt.pdb
+C:\Tools\MiscEncrypt\MiscEncrypt\bin\Debug\LoaderCS.txt
+C:\Tools\MiscEncrypt\MiscEncrypt\bin\Debug\LoaderXML.txt
+C:\Tools\MiscEncrypt\MiscEncrypt\obj\Debug\MiscEncrypt.csprojAssemblyReference.cache
